@@ -15,4 +15,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Soham-2211/Leetcode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham-2211/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham-2211/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham-2211/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
